@@ -8,7 +8,6 @@
 - [Prerequisites](#prerequisites)
 - [Linux](#Linux)
 - [Windows](#windows)
-- [PHP](#php)
 
 Make Sure To Change these variables before runing the script.
 ```python
@@ -48,7 +47,7 @@ Python 3.0+ with requests library required. you cant run the script on python 2.
 ### Linux
 ```bash
 # Clone the Repository
-git clone https://github.com/ItsAML/MarzbanExpiredUserRemover.git
+git clone https://github.com/ItsAML/MarzbanUserTemplateManagment.git
 
 # Change Directory
 cd MarzbanExpiredUserRemover
@@ -65,7 +64,7 @@ python3 main.py
 ### Windows
 ```bash
 # Clone the Repository
-git clone https://github.com/ItsAML/MarzbanExpiredUserRemover.git
+git clone https://github.com/ItsAML/MarzbanUserTemplateManagment.git
 
 # Navigate to the Repository Directory
 cd MarzbanExpiredUserRemover
@@ -77,6 +76,6 @@ cd MarzbanExpiredUserRemover
 # Install Dependencies
 pip install -r requirements.txt
 
-# Run the Script (replace 'flow.py' with the actual script filename)
+# Run the Script
 python main.py
 ```
