@@ -1,4 +1,4 @@
-# Marzban Expired Users Remover
+# Marzban User Template Manager
 
  | Simply Show, Add, Modify and Delete User Templates With This Script.
 
@@ -20,9 +20,7 @@ HTTPS = True  # Set this to True for HTTPS, False for HTTP
 
 ## About
 
-This script is designed to automate the management of users using marzban api. It securely logs in to an admin panel, retrieves a list of expired users, and removes them from the system, all while providing detailed logging for each operation. It is a valuable tool for efficiently managing user accounts in a web-based environment.
-
-Feel free to modify and expand upon this description to better suit your project's specific goals and context.
+This script is designed to automate the management of user templates using the Marzban API. It securely logs into an admin panel, retrieves a list of user templates, adds new ones, modifies existing templates, and can also delete user templates when needed. It provides detailed logging for each operation, making it a valuable tool for efficiently managing user accounts in a web-based environment.
 
 ## Getting Started
 
