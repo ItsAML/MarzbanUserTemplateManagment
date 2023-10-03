@@ -7,7 +7,7 @@ logging.basicConfig(level=logging.INFO)
 
 # Constants
 DOMAIN = 'YOUR_DOMAIN'
-PORT = "YOUR_PORT"
+PORT = 'YOUR_PORT'
 USERNAME = 'YOUR_USERNAME'
 PASSWORD = 'YOUR_PASSWORD'
 HTTPS = True  # Set this to True for HTTPS, False for HTTP
