@@ -48,7 +48,7 @@ Python 3.0+ with requests library required. you cant run the script on python 2.
 git clone https://github.com/ItsAML/MarzbanUserTemplateManagment.git
 
 # Change Directory
-cd MarzbanExpiredUserRemover
+cd MarzbanUserTemplateManagment
 
 # Install pip (if not already installed)
 wget -qO- https://bootstrap.pypa.io/get-pip.py | python3 -
@@ -65,7 +65,7 @@ python3 main.py
 git clone https://github.com/ItsAML/MarzbanUserTemplateManagment.git
 
 # Navigate to the Repository Directory
-cd MarzbanExpiredUserRemover
+cd MarzbanUserTemplateManagment
 
 # Install Python (if not already installed)
 # Download and install Python from https://www.python.org/downloads/
